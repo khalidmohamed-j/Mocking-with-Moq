@@ -1,0 +1,8 @@
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\bin\Debug\netcoreapp3.1\CarsWithPizzazz.deps.json
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\bin\Debug\netcoreapp3.1\CarsWithPizzazz.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\bin\Debug\netcoreapp3.1\CarsWithPizzazz.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\netcoreapp3.1\CarsWithPizzazz.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\netcoreapp3.1\CarsWithPizzazz.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\netcoreapp3.1\CarsWithPizzazz.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\netcoreapp3.1\CarsWithPizzazz.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\05 - Fakes and Doubles\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\netcoreapp3.1\CarsWithPizzazz.pdb

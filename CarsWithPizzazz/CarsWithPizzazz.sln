@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsWithPizzazz", "CarsWithPizzazz\CarsWithPizzazz.csproj", "{0B81AD63-E8DD-4D66-B58F-6EDBFFBA9BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B0B5D9BE-750C-4C9E-B326-7C753235B6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B81AD63-E8DD-4D66-B58F-6EDBFFBA9BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B81AD63-E8DD-4D66-B58F-6EDBFFBA9BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B81AD63-E8DD-4D66-B58F-6EDBFFBA9BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B81AD63-E8DD-4D66-B58F-6EDBFFBA9BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5D9BE-750C-4C9E-B326-7C753235B6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5D9BE-750C-4C9E-B326-7C753235B6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5D9BE-750C-4C9E-B326-7C753235B6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5D9BE-750C-4C9E-B326-7C753235B6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123BC77A-9B78-4D7B-BA8B-7F5D1EF093B4}
+	EndGlobalSection
+EndGlobal
