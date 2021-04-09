@@ -6,7 +6,7 @@ You have been given a .cs file named CarsWithPizzazz to act as the software unde
 
 **Use these values to simulate the cars in the database:
 **
-VIN	Year	Make	Model	Location on Lot
+**VIN	Year	Make	Model	Location on Lot
 
 01xxxxxxxxxxxxxxx	2008	Cadillac	CTS-V	A5
 
@@ -24,8 +24,8 @@ VIN	Year	Make	Model	Location on Lot
 
 **The tests:
 **
-Here are the tests:
-
+**Here are the tests:
+**
 •	**FindCar**
 
 -	Return instance of Auto when requested car is found.
