@@ -5,6 +5,8 @@ Otto’s Autos is a used car company in Rancho Cucamonga, CA.  You’re working 
 You have been given a .cs file named CarsWithPizzazz to act as the software under test.  Your job is to test some methods that are intended to go against a database layer, but the database is not yet available.  Thus, you must prepare a mock to mimic the database access behaviors, and you must write unit tests to validate that each method that relies on data from the database works.
 
 Use these values to simulate the cars in the database:
+
+
 VIN	Year	Make	Model	Location on Lot
 01xxxxxxxxxxxxxxx	2008	Cadillac	CTS-V	A5
 02xxxxxxxxxxxxxxx	1964	Dodge	Dart	F3
@@ -16,6 +18,7 @@ VIN	Year	Make	Model	Location on Lot
  
 The tests:
 Here are the tests:
+
 •	FindCar
 o	Return instance of Auto when requested car is found.
 o	Throw VINNotFoundException when the requested car is not found.
