@@ -4,9 +4,9 @@ Mocking with Moq
 Otto’s Autos is a used car company in Rancho Cucamonga, CA.  You’re working on a project to help automate inventory at Otto’s used car lot.
 You have been given a .cs file named CarsWithPizzazz to act as the software under test.  Your job is to test some methods that are intended to go against a database layer, but the database is not yet available.  Thus, you must prepare a mock to mimic the database access behaviors, and you must write unit tests to validate that each method that relies on data from the database works.
 
-**Use these values to simulate the cars in the database:
+**Use these values to simulate the cars in the database:**
 
-****VIN	Year	Make	Model	Location on Lot
+**VIN	Year	Make	Model	Location on Lot**
 
 01xxxxxxxxxxxxxxx	2008	Cadillac	CTS-V	A5
 
@@ -22,9 +22,9 @@ You have been given a .cs file named CarsWithPizzazz to act as the software unde
 
 
 
-**The tests:
-**
-**Here are the tests:
+**The tests:**
+
+**Here are the tests:**
 
 •	**FindCar**
 
