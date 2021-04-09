@@ -20,8 +20,8 @@ VIN	Year	Make	Model	Location on Lot
 
 06xxxxxxxxxxxxxxx	1968	Triumph	TR5	A2
 
- 
 The tests:
+
 Here are the tests:
 
 •	FindCar
